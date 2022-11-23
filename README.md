@@ -20,5 +20,5 @@ The data of different flowers’ blossom-viewing phases (ordinal) from Wikipedia
 
 ## Poster
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Spatial-and-temporal-distribution-of-cherry-blossom-viewing-date-in-the-US-based-on-Twitter-data/blob/main/poster.png" width="450" height="225">
+<img src="https://github.com/Wanqi9Hu/Spatial-and-temporal-distribution-of-cherry-blossom-viewing-date-in-the-US-based-on-Twitter-data/blob/main/poster.png" width="2000" height="1225">
 </div>
