@@ -4,7 +4,7 @@
 
 *names by the alphabetical order of the last names*
 
-**This is final project for Stats401: Data Visualization.**
+**This is our final project for Stats401: Data Visualization.**
 
 ## Introduction
 Phenology has become the "diagnostic fingerprint" of global climate change (Cleland et al. 2007). As an essential phenological indicator, the blossom-viewing date is a sensitive and intuitive reflection of the environmental changes. However, most blossom phenological site observation data show a pattern of incompleteness, which can hardly support the overall spatial and temporal analysis (Liu et al., 2019). As a result, the big data from Twitter, a widely used social media platform, has become a complementary source to solve this problem. 
