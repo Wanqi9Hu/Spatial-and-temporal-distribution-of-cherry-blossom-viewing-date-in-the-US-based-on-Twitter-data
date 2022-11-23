@@ -14,11 +14,11 @@ Different flowers’ blossom-viewing phases vary significantly. To more accurate
 Thus, this project takes the cherry blossom as the research object, Twitter as the data crawling source, and the United States as the geographical research scope to analyze cherry blossom viewing dates' spatial and temporal distribution patterns.
 
 ## Data
-The main data source for this project is Twitter. Tweets are scrawled using snscrape (Blair et al. 2021), a scraper for social networking services based on Python. With the keyword “cherry blossom,” 44915 pieces of tweets are found from 2011 to 2021 with the location in the US. The information for each tweet includes the time (ordinal), location (categorical), and content (categorical).
+The main data source for this project is Twitter. Tweets are scrawled using snscrape, a scraper for social networking services based on Python. With the keyword “cherry blossom,” 44915 pieces of tweets are found from 2011 to 2021 with the location in the US. The information for each tweet includes the time (ordinal), location (categorical), and content (categorical).
 
 The data of different flowers’ blossom-viewing phases (ordinal) from Wikipedia (Wikipedia 2004) and data of elevation distribution (numerical) in the US from Google earth (Lisle 2006) are used as complementary data in this project.
 
 ## Poster
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Spatial-and-temporal-distribution-of-cherry-blossom-viewing-date-in-the-US-based-on-Twitter-data/blob/main/poster.png" width="2000" height="625">
+<img src="https://github.com/Wanqi9Hu/Spatial-and-temporal-distribution-of-cherry-blossom-viewing-date-in-the-US-based-on-Twitter-data/blob/main/poster.png" width="2000" height="500">
 </div>
